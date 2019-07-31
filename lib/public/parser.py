@@ -36,8 +36,9 @@ class DumpParser(object):
     def __init__(self, filepath: str):
         self.path = filepath
 
+    @property
     def get_element_list(self) -> list:
-        r"""解析uidump.xml文件并将其中包含的空间元素以列表的形式返回.
+        r"""解析uidump.xml文件并将其中包含的控件元素以列表的形式返回.
         """
         try:
             tree = ET.parse(self.path)
@@ -52,3 +53,22 @@ class DumpParser(object):
         except (FileNotFoundError, FileExistsError):
             logger.warning("File {} not found, please check the corresponding path".format(self.path))
 
+    def get_element_path(self) -> list:
+        r"""获取元素xpath定位信息，并以list类型数据返回
+        """
+
+        node = self.get_element_list
+
+        if isinstance(node, list):
+            element = []
+            for tags in node:
+                text = tags['text'] if tags['text'] != '' else None
+                id = tags['resource-id'] if tags['resource-id'] != '' else None
+
+                if text and id is None:
+                    element.append("//*[@text='{}']".format(text))
+                if id and text is None:
+                    element.append("//*[@resource-id='{}']".format(id))
+                if text and id:
+                    element.append("//*[@resource-id='{}'][@text='{}']".format(id, text))
+        return element
