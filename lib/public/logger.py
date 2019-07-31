@@ -97,7 +97,7 @@ def _get_logger(log_to_file=True, log_level="DEBUG"):
 
     if log_to_file:
         _tmp_path = os.path.dirname(os.path.abspath(__file__))
-        _tmp_path = os.path.join(_tmp_path, "../result/{}.log".format(time_util.timeStamp('format_now')))
+        _tmp_path = os.path.join(_tmp_path, "../result/logs/{}.log".format(time_util.timeStamp('format_now')))
         file_handler = logging.handlers.TimedRotatingFileHandler(_tmp_path, when="midnight", backupCount=30)
         file_formatter = logging.Formatter(
             fmt=FILE_LOG_FMT,
