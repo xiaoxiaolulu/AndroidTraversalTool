@@ -1,4 +1,5 @@
 from lib.public.logger import logger
+
 try:
     import xml.etree.CElementTree as ET
 except ImportError:
@@ -63,12 +64,12 @@ class DumpParser(object):
             element = []
             for tags in node:
                 text = tags['text'] if tags['text'] != '' else None
-                id = tags['resource-id'] if tags['resource-id'] != '' else None
+                resource_id = tags['resource-id'] if tags['resource-id'] != '' else None
 
-                if text and id is None:
+                if text and resource_id  is None:
                     element.append("//*[@text='{}']".format(text))
-                if id and text is None:
-                    element.append("//*[@resource-id='{}']".format(id))
-                if text and id:
-                    element.append("//*[@resource-id='{}'][@text='{}']".format(id, text))
+                if resource_id  and text is None:
+                    element.append("//*[@resource-id='{}']".format(resource_id ))
+                if text and resource_id:
+                    element.append("//*[@resource-id='{}'][@text='{}']".format(resource_id , text))
         return element
