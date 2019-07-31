@@ -1,0 +1,5 @@
+Capabilities:
+  appPackage: com.Autoyol.auto
+  appActivity: com.Autoyol.main.FirstActivity
+  unicodeKeyboard: True
+  resetKeyboard: True
