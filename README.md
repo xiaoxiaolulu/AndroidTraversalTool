@@ -1,2 +1,13 @@
 ### AndroidTraversalTool
-AndroidTraversalTool 是一款安卓app自动遍历工具
+AndroidTraversalTool 是一款以python-appium编写的安卓端app自动遍历工具
+
+
+### 项目特点如下：
+1. 无需编写任何用例就可以执行相应的探索性测试
+2. 支持遍历控件优先级顺序
+3. 对于部分权限弹框存在白名单功能
+4. 执行遍历时自动对app进行专项测试
+5. 支持断开重连机制, 并可进行多设备平行测试
+6. 自动crash奔溃控件
+7. 遍历时自动将已遍历控件元素标红，并体现在测试报告中
+
