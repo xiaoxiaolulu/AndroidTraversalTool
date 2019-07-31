@@ -1,0 +1,7 @@
+[2019-07-31 17:32:41] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/left_button']
+[2019-07-31 17:32:48] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@text='凹凸租车']
+[2019-07-31 17:32:51] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/promotionTv'][@text='新人注册领取210元租车优惠体验券']
+[2019-07-31 17:32:51] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/mTabLayout']
+[2019-07-31 17:32:52] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/tv_tab_title'][@text='验证码登录']
+[2019-07-31 17:32:53] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/tv_tab_title'][@text='密码登录']
+[2019-07-31 17:32:57] [DEBUG] [MainThread] [run.py:11] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/mViewpager']
