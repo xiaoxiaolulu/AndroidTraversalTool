@@ -7,5 +7,6 @@
 2. adb pull /data/local/tmp/uidump.xml C:/Users/cxy-07-03/Desktop 
 ```
 ```XPATH定位
+xpath 定位总结
 https://www.cnblogs.com/cnkemi/p/9180525.html
 ```
