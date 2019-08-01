@@ -1,0 +1,17 @@
+[2019-08-01 16:48:13] [DEBUG] [MainThread] [server.py:35] start appium :p 4812 bp 4786 device:baec20fa
+[2019-08-01 16:49:29] [WARNING] [MainThread] [run.py:19] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 16:49:29] [WARNING] [MainThread] [run.py:19] {'android.widget.ImageView': "//*[@resource-id='com.Autoyol.auto:id/parallax']"}
+[2019-08-01 16:49:30] [WARNING] [MainThread] [run.py:19] {'android.support.v7.widget.RecyclerView': "//*[@resource-id='com.Autoyol.auto:id/mRecyclerView']"}
+[2019-08-01 16:49:30] [WARNING] [MainThread] [run.py:19] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/citySelector_layout']"}
+[2019-08-01 16:49:31] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/tvCityName'][@text='上海']"}
+[2019-08-01 16:49:31] [WARNING] [MainThread] [run.py:19] {'android.widget.RelativeLayout': "//*[@resource-id='com.Autoyol.auto:id/message_layout']"}
+[2019-08-01 16:49:31] [WARNING] [MainThread] [run.py:19] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/search_layout']"}
+[2019-08-01 16:49:31] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/tv_search_text'][@text='搜索目的地、品牌、车型']"}
+[2019-08-01 16:49:33] [WARNING] [MainThread] [run.py:19] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/mViewPager']"}
+[2019-08-01 16:49:35] [WARNING] [MainThread] [run.py:19] {'android.support.v7.widget.RecyclerView': "//*[@resource-id='com.Autoyol.auto:id/mRecyclerView']"}
+[2019-08-01 16:49:35] [WARNING] [MainThread] [run.py:19] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/item_view']"}
+[2019-08-01 16:49:36] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/menuTextView'][@text='自助找车']"}
+[2019-08-01 16:49:36] [WARNING] [MainThread] [run.py:19] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/item_view']"}
+[2019-08-01 16:49:36] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/menuTextView'][@text='超值长租']"}
+[2019-08-01 16:49:36] [WARNING] [MainThread] [run.py:19] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/item_view']"}
+[2019-08-01 16:49:36] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/menuTextView'][@text='共享车']"}

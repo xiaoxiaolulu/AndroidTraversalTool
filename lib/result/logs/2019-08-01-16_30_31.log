@@ -1,0 +1,2 @@
+[2019-08-01 16:30:31] [DEBUG] [MainThread] [server.py:16] appium -p 4810 -bp 4854 -U baec20fa
+[2019-08-01 16:30:31] [DEBUG] [MainThread] [server.py:20] start appium :p 4810 bp 4854 device:baec20fa

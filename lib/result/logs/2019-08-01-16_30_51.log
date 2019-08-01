@@ -1,0 +1,2 @@
+[2019-08-01 16:30:51] [DEBUG] [MainThread] [server.py:16] appium -p 4791 -bp 4713 -U baec20fa
+[2019-08-01 16:30:51] [DEBUG] [MainThread] [server.py:20] start appium :p 4791 bp 4713 device:baec20fa

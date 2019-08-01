@@ -1,0 +1,2 @@
+[2019-08-01 16:23:00] [DEBUG] [MainThread] [server.py:19] start appium :p 4849 bp 4726 device:baec20fa
+[2019-08-01 16:23:02] [DEBUG] [MainThread] [server.py:23] b'\x1b[35m[Appium]\x1b[39m Welcome to Appium v1.14.0'

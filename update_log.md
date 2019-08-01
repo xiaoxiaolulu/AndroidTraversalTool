@@ -1,3 +1,12 @@
+# 2019-08-01
+1. appium server 启动类完成
+2. 操作app元素类关键词封装完成
+3. 获取设备信息类封装完成
+```新版appium无appium-doctor解决方案
+新版appium无appium-doctor解决方案
+https://www.cnblogs.com/yoyoketang/p/9123489.html
+```
+
 #  2019-07-31
 1. 新建项目结构目录
 2. 完成xml解析模块

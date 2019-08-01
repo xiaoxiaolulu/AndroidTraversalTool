@@ -112,7 +112,7 @@ class KeyWords(Singleton):
         start_time = time.time()
         try:
             _tmp_path = os.path.dirname(os.path.abspath(__file__))
-            _tmp_path = os.path.join(_tmp_path, "../result/imgs/{}".format(filename))
+            _tmp_path = os.path.join(_tmp_path, "../result/imgs/{}.png".format(filename))
             image = self.driver.get_screenshot_as_file(_tmp_path)
             logger.info("The screenshot is successful, the name of the picture is {0}, \
              Spend {1} seconds ".format(filename, time.time()-start_time))

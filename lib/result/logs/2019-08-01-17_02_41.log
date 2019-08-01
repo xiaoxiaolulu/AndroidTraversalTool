@@ -1,0 +1,15 @@
+[2019-08-01 17:02:41] [DEBUG] [MainThread] [server.py:35] start appium :p 4848 bp 4844 device:baec20fa
+[2019-08-01 17:03:09] [WARNING] [MainThread] [run.py:19] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:03:09] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@text='凹凸租车']"}
+[2019-08-01 17:03:10] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/promotionTv'][@text='新人注册领取588元租车优惠体验券']"}
+[2019-08-01 17:03:10] [WARNING] [MainThread] [run.py:19] {'android.widget.HorizontalScrollView': "//*[@resource-id='com.Autoyol.auto:id/mTabLayout']"}
+[2019-08-01 17:03:10] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/tv_tab_title'][@text='验证码登录']"}
+[2019-08-01 17:03:10] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/tv_tab_title'][@text='密码登录']"}
+[2019-08-01 17:03:10] [WARNING] [MainThread] [run.py:19] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/mViewpager']"}
+[2019-08-01 17:03:10] [WARNING] [MainThread] [run.py:19] {'android.widget.EditText': "//*[@resource-id='com.Autoyol.auto:id/login_name'][@text='请输入手机号']"}
+[2019-08-01 17:03:11] [WARNING] [MainThread] [run.py:19] {'android.widget.EditText': "//*[@resource-id='com.Autoyol.auto:id/login_pwd'][@text='请输入验证码']"}
+[2019-08-01 17:03:14] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/getSMS'][@text='获取验证码']"}
+[2019-08-01 17:03:16] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@resource-id='com.Autoyol.auto:id/login_btn'][@text='登录']"}
+[2019-08-01 17:03:18] [WARNING] [MainThread] [run.py:19] {'android.widget.EditText': "//*[@resource-id='com.Autoyol.auto:id/autoProtocol'][@text='验证手机号即代表您已同意《凹凸租车会员服务协议》并授权征信审核']"}
+[2019-08-01 17:03:19] [WARNING] [MainThread] [run.py:19] {'android.widget.TextView': "//*[@text='第三方登录']"}
+[2019-08-01 17:03:19] [WARNING] [MainThread] [run.py:19] {'android.widget.ImageView': "//*[@resource-id='com.Autoyol.auto:id/wxImg']"}

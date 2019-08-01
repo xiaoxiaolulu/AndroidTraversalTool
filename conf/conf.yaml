@@ -8,30 +8,27 @@ Capabilities:
 
 # 控件权重以及操作模式设定
 WeightinessAndControlMethod:
-  android.widget.TextView: !import::click|input
-  android.widget.ImageView: 99::click
-  android.widget.EditText: 98::input
-  android.widget.Button: 97::click
-  android.widget.CheckBox: 96::click
-  android.widget.RadioGroup: 95::click
-  android.widget.Toast: 94::click
-  android.widget.Spinner: 93::click
-  android.widget.ListView: 92::click
-  android.widget.TabHost: 91::click
-  android.widget.AutoCompleteTextView: 90::click
-  android.widget.RatingBar: 89::click
-  android.widget.TableLayout: 88::click
-  android.widget.RelativeLayout: 87::click
-  android.widget.FrameLayout: 86::click
-  android.widget.AbsoluteLayout: 85::click
-  android.widget.LinearLayout: 84::click|input
-  android.widget.RadioButton: 83::click
-  android.widget.ToggleButton: 82::click
-  android.widget.AnalogClock: 81::click
-  android.widget.DigitalClock: 80::click
-  android.widget.DatePicker: 79::click
-  android.widget.TimePicker: 78::click
+  android.widget.TextView: '!import::click|input'
+  android.widget.ImageView: '99::click'
+  android.widget.EditText: '98::input'
+  android.widget.Button: '97::click'
+  android.widget.CheckBox: '96::click'
+  android.widget.RadioGroup: '95::click'
+  android.widget.Toast: '94::click'
+  android.widget.Spinner: '93::click'
+  android.widget.ListView: '92::click'
+  android.widget.TabHost: '91::click'
+  android.widget.AutoCompleteTextView: '90::click'
+  android.widget.RatingBar: '89::click'
+  android.widget.TableLayout: '88::click'
+  android.widget.RelativeLayout: '87::click'
+  android.widget.FrameLayout: '86::click'
+  android.widget.AbsoluteLayout: '85::click'
+  android.widget.LinearLayout: '84::click|input'
+  android.widget.RadioButton: '83::click'
+  android.widget.ToggleButton: '82::click'
+  android.widget.AnalogClock: '81::click'
+  android.widget.DigitalClock: '80::click'
+  android.widget.DatePicker: '79::click'
+  android.widget.TimePicker: '78::click'
 
-
-# 定制业务流
-WorkFlow:
