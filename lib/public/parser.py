@@ -67,9 +67,9 @@ class DumpParser(object):
                 resource_id = tags['resource-id'] if tags['resource-id'] != '' else None
 
                 if text and resource_id is None:
-                    element.append("//*[@text='{}']".format(text))
-                if resource_id  and text is None:
-                    element.append("//*[@resource-id='{}']".format(resource_id ))
+                    element.append({tags['class']: "//*[@text='{}']".format(text)})
+                if resource_id and text is None:
+                    element.append({tags['class']: "//*[@resource-id='{}']".format(resource_id)})
                 if text and resource_id:
-                    element.append("//*[@resource-id='{}'][@text='{}']".format(resource_id , text))
+                    element.append({tags['class']: "//*[@resource-id='{}'][@text='{}']".format(resource_id, text)})
         return element
