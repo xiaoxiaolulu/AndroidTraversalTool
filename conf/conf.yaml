@@ -5,6 +5,25 @@ Capabilities:
   unicodeKeyboard: True
   resetKeyboard: True
 
+# 登录配置
+LoginSetting:
+  SwipeLeft: 4
+  OperateElement:
+   - SwitchLoginPage:
+       Xpath: "//*[@text='点击登录']"
+       Action: "click"
+   - InputUserName:
+       Xpath: "//*[@resource-id='com.Autoyol.auto:id/login_name']"
+       Action: "send_keys"
+       value: "1356495738"
+   - InputPassword:
+       Xpath: "//*[@resource-id='com.Autoyol.auto:id/login_pwd']"
+       Action: "send_keys"
+       value: "111111"
+   - ClickLoginButton:
+       Xpath: "//*[@resource-id='com.Autoyol.auto:id/login_btn']"
+       Action: "click"
+
 
 # 控件权重以及操作模式设定
 WeightinessAndControlMethod:

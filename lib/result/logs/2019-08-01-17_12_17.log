@@ -1,0 +1,3 @@
+[2019-08-01 17:12:17] [DEBUG] [MainThread] [server.py:35] start appium :p 4891 bp 4723 device:baec20fa
+[2019-08-01 17:12:44] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.029944658279418945 seconds
+[2019-08-01 17:12:55] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!

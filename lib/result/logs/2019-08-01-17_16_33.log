@@ -1,0 +1,52 @@
+[2019-08-01 17:16:33] [DEBUG] [MainThread] [server.py:35] start appium :p 4786 bp 4720 device:baec20fa
+[2019-08-01 17:17:01] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.04288792610168457 seconds
+[2019-08-01 17:17:04] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 3 count, Spend 2.751945972442627
+[2019-08-01 17:17:04] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:04] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully
+
+[2019-08-01 17:17:04] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005997657775878906 seconds
+[2019-08-01 17:17:09] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.702476263046265
+[2019-08-01 17:17:09] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+[2019-08-01 17:17:09] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.004986763000488281 seconds
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:09] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007980585098266602 seconds
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:09] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007979393005371094 seconds
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:09] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007980108261108398 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.012966394424438477 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.009991884231567383 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005983591079711914 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.009979486465454102 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006982564926147461 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:17:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005983591079711914 seconds
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:26] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:17:10] [WARNING] [MainThread] [run.py:27] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+

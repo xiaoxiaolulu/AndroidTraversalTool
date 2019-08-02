@@ -1,0 +1,97 @@
+[2019-08-01 17:37:01] [WARNING] [MainThread] [parser.py:55] File uidump.xml not found, please check the corresponding path
+[2019-08-01 17:37:01] [WARNING] [MainThread] [parser.py:55] File uidump.xml not found, please check the corresponding path
+[2019-08-01 17:37:01] [WARNING] [MainThread] [parser.py:55] File uidump.xml not found, please check the corresponding path
+[2019-08-01 17:37:01] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.009974241256713867 seconds
+[2019-08-01 17:37:04] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 2.347723960876465
+[2019-08-01 17:37:29] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:37:29] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:37:29] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:37:29] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00498652458190918 seconds
+[2019-08-01 17:37:34] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.164787769317627
+[2019-08-01 17:37:35] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:37:35] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.004019737243652344 seconds
+[2019-08-01 17:37:37] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 2.0093493461608887
+[2019-08-01 17:38:07] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/mRecyclerView']
+[2019-08-01 17:38:07] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.004019260406494141 seconds
+[2019-08-01 17:38:09] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.6497564315795898
+[2019-08-01 17:38:40] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/mRecyclerView']
+[2019-08-01 17:38:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.003989219665527344 seconds
+[2019-08-01 17:38:41] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5658104419708252
+[2019-08-01 17:39:12] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/item_view']
+[2019-08-01 17:39:12] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0049855709075927734 seconds
+[2019-08-01 17:39:13] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5537073612213135
+[2019-08-01 17:39:44] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/brandInfo'][@text='英菲尼迪 Q50']
+[2019-08-01 17:39:44] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005956172943115234 seconds
+[2019-08-01 17:39:45] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5239009857177734
+[2019-08-01 17:40:16] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984067916870117 seconds
+[2019-08-01 17:40:17] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5408809185028076
+[2019-08-01 17:40:48] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/price_value_new'][@text='298']
+[2019-08-01 17:40:48] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984306335449219 seconds
+[2019-08-01 17:40:49] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5648484230041504
+[2019-08-01 17:41:20] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@text='/天起']
+[2019-08-01 17:41:20] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0029914379119873047 seconds
+[2019-08-01 17:41:21] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.580061435699463
+[2019-08-01 17:41:51] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/car_tag1'][@text='Q50']
+[2019-08-01 17:41:52] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007017374038696289 seconds
+[2019-08-01 17:41:53] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.576781988143921
+[2019-08-01 17:42:23] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/tv_nickName'][@text='忆似水年华']
+[2019-08-01 17:42:23] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005983591079711914 seconds
+[2019-08-01 17:42:25] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5598292350769043
+[2019-08-01 17:42:55] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/item_view']
+[2019-08-01 17:42:55] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.004985332489013672 seconds
+[2019-08-01 17:42:57] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.549363374710083
+[2019-08-01 17:43:27] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/aotu_layout']
+[2019-08-01 17:43:27] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005011081695556641 seconds
+[2019-08-01 17:43:29] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5517246723175049
+[2019-08-01 17:43:59] [DEBUG] [MainThread] [run.py:24] Click element xpath is //*[@resource-id='com.Autoyol.auto:id/modelTitle'][@text='热门帖子']
+[2019-08-01 17:43:59] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0049860477447509766 seconds
+[2019-08-01 17:44:01] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5269267559051514
+[2019-08-01 17:44:46] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:44:46] [WARNING] [MainThread] [run.py:26] //*[@text='全部']
+[2019-08-01 17:44:46] [WARNING] [MainThread] [run.py:27] Message: An element could not be located on the page using the given search parameters.
+
+[2019-08-01 17:44:46] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0069828033447265625 seconds
+[2019-08-01 17:44:48] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5518512725830078
+[2019-08-01 17:45:07] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:45:07] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:45:07] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:45:07] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984067916870117 seconds
+[2019-08-01 17:45:08] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5458669662475586
+[2019-08-01 17:45:34] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:45:34] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:45:34] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:45:34] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.003992795944213867 seconds
+[2019-08-01 17:45:36] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5452919006347656
+[2019-08-01 17:46:01] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:46:01] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:46:01] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:46:01] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006979703903198242 seconds
+[2019-08-01 17:46:03] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5528712272644043
+[2019-08-01 17:46:29] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:46:29] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:46:29] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:46:29] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006982326507568359 seconds
+[2019-08-01 17:46:30] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.509810209274292
+[2019-08-01 17:46:56] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:46:56] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:46:56] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:46:56] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00896143913269043 seconds
+[2019-08-01 17:46:57] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5397520065307617
+[2019-08-01 17:47:23] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:47:23] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:47:23] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:47:24] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984067916870117 seconds
+[2019-08-01 17:47:25] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5292134284973145
+[2019-08-01 17:47:51] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:47:51] [WARNING] [MainThread] [run.py:26] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:47:51] [WARNING] [MainThread] [run.py:27] Message: 
+
+[2019-08-01 17:47:51] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.009970426559448242 seconds
+[2019-08-01 17:47:52] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5271103382110596

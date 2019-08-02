@@ -1,0 +1,4 @@
+[2019-08-02 14:54:48] [DEBUG] [MainThread] [server.py:35] start appium :p 4710 bp 4894 device:baec20fa
+[2019-08-02 14:55:46] [INFO] [MainThread] [keywords.py:353] Mandatory waiting 30
+[2019-08-02 14:55:51] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.984103202819824
+[2019-08-02 14:56:29] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@text='ÎÒµÄ'],              Spend 2.745042324066162 seconds 

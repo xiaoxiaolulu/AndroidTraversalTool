@@ -1,0 +1,298 @@
+[2019-08-01 17:49:39] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007978677749633789 seconds
+[2019-08-01 17:49:41] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 1 count, Spend 2.136294364929199
+[2019-08-01 17:49:41] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:49:41] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: The swipe did not complete successfully
+
+[2019-08-01 17:49:41] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.008974313735961914 seconds
+[2019-08-01 17:49:45] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 3.6953930854797363
+[2019-08-01 17:49:48] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 2.309067487716675 seconds 
+[2019-08-01 17:49:49] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:49:50] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 5.228002071380615 seconds
+[2019-08-01 17:49:50] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:49:50] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:49:50] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006987571716308594 seconds
+[2019-08-01 17:49:52] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5917391777038574
+[2019-08-01 17:49:55] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7572996616363525 seconds 
+[2019-08-01 17:49:55] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0010046958923339844                 seconds
+[2019-08-01 17:49:55] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 3.3001914024353027 seconds
+[2019-08-01 17:49:55] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:49:55] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:49:55] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007978677749633789 seconds
+[2019-08-01 17:49:57] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.9464006423950195
+[2019-08-01 17:50:00] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.990015983581543 seconds 
+[2019-08-01 17:50:00] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:00] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 3.5541751384735107 seconds
+[2019-08-01 17:50:00] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:00] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:00] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005983591079711914 seconds
+[2019-08-01 17:50:03] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 2.300218105316162
+[2019-08-01 17:50:06] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 2.2434113025665283 seconds 
+[2019-08-01 17:50:06] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:06] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 3.355520009994507 seconds
+[2019-08-01 17:50:06] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:06] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:06] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006970882415771484 seconds
+[2019-08-01 17:50:08] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 2.1379470825195312
+[2019-08-01 17:50:11] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 2.424191951751709 seconds 
+[2019-08-01 17:50:12] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0010058879852294922                 seconds
+[2019-08-01 17:50:12] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 3.2080626487731934 seconds
+[2019-08-01 17:50:12] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:12] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:12] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006983518600463867 seconds
+[2019-08-01 17:50:14] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 2.114140272140503
+[2019-08-01 17:50:16] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.882216453552246 seconds 
+[2019-08-01 17:50:16] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0009922981262207031                 seconds
+[2019-08-01 17:50:16] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.34694766998291 seconds
+[2019-08-01 17:50:16] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:16] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:16] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005974769592285156 seconds
+[2019-08-01 17:50:18] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.609696388244629
+[2019-08-01 17:50:20] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7207207679748535 seconds 
+[2019-08-01 17:50:20] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:20] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2317538261413574 seconds
+[2019-08-01 17:50:20] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:20] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:20] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0059871673583984375 seconds
+[2019-08-01 17:50:22] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5827662944793701
+[2019-08-01 17:50:24] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7642912864685059 seconds 
+[2019-08-01 17:50:24] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:24] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2410032749176025 seconds
+[2019-08-01 17:50:24] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:24] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:24] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005994558334350586 seconds
+[2019-08-01 17:50:25] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5338997840881348
+[2019-08-01 17:50:28] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8829994201660156 seconds 
+[2019-08-01 17:50:28] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:28] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.396635055541992 seconds
+[2019-08-01 17:50:28] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:28] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:28] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007979393005371094 seconds
+[2019-08-01 17:50:30] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5678164958953857
+[2019-08-01 17:50:32] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.755422830581665 seconds 
+[2019-08-01 17:50:32] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0009965896606445312                 seconds
+[2019-08-01 17:50:32] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.231142997741699 seconds
+[2019-08-01 17:50:32] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:32] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:32] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00598454475402832 seconds
+[2019-08-01 17:50:33] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.555837869644165
+[2019-08-01 17:50:36] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8580362796783447 seconds 
+[2019-08-01 17:50:36] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0009853839874267578                 seconds
+[2019-08-01 17:50:36] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.453474521636963 seconds
+[2019-08-01 17:50:36] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:36] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:36] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00699925422668457 seconds
+[2019-08-01 17:50:37] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5409023761749268
+[2019-08-01 17:50:39] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.732480525970459 seconds 
+[2019-08-01 17:50:40] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:40] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.236297845840454 seconds
+[2019-08-01 17:50:40] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:40] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006983041763305664 seconds
+[2019-08-01 17:50:41] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5458641052246094
+[2019-08-01 17:50:43] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8470604419708252 seconds 
+[2019-08-01 17:50:44] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:44] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.4265453815460205 seconds
+[2019-08-01 17:50:44] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:44] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:44] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006981849670410156 seconds
+[2019-08-01 17:50:45] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5319042205810547
+[2019-08-01 17:50:48] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.9278416633605957 seconds 
+[2019-08-01 17:50:48] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:48] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.4115512371063232 seconds
+[2019-08-01 17:50:48] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:48] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:48] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0099639892578125 seconds
+[2019-08-01 17:50:49] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5358970165252686
+[2019-08-01 17:50:51] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7752220630645752 seconds 
+[2019-08-01 17:50:52] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:52] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.3337526321411133 seconds
+[2019-08-01 17:50:52] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:52] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:52] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0069844722747802734 seconds
+[2019-08-01 17:50:53] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5568382740020752
+[2019-08-01 17:50:55] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.709742546081543 seconds 
+[2019-08-01 17:50:55] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:50:55] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.1794354915618896 seconds
+[2019-08-01 17:50:55] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:50:55] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:50:56] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00798344612121582 seconds
+[2019-08-01 17:50:57] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.554839849472046
+[2019-08-01 17:50:59] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.958353042602539 seconds 
+[2019-08-01 17:51:00] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0009982585906982422                 seconds
+[2019-08-01 17:51:00] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.4759581089019775 seconds
+[2019-08-01 17:51:00] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:00] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:00] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0069811344146728516 seconds
+[2019-08-01 17:51:01] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5708003044128418
+[2019-08-01 17:51:03] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.770127773284912 seconds 
+[2019-08-01 17:51:03] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:03] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2577686309814453 seconds
+[2019-08-01 17:51:03] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:03] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:03] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005988121032714844 seconds
+[2019-08-01 17:51:05] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5747992992401123
+[2019-08-01 17:51:07] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.9897048473358154 seconds 
+[2019-08-01 17:51:08] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.000997781753540039                 seconds
+[2019-08-01 17:51:08] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.461432695388794 seconds
+[2019-08-01 17:51:08] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:08] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:08] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007978439331054688 seconds
+[2019-08-01 17:51:09] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5618231296539307
+[2019-08-01 17:51:11] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8442203998565674 seconds 
+[2019-08-01 17:51:11] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:12] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.3757920265197754 seconds
+[2019-08-01 17:51:12] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:12] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:12] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0069828033447265625 seconds
+[2019-08-01 17:51:13] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5937364101409912
+[2019-08-01 17:51:15] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7283642292022705 seconds 
+[2019-08-01 17:51:15] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:15] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.216104745864868 seconds
+[2019-08-01 17:51:15] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:15] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:15] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006981849670410156 seconds
+[2019-08-01 17:51:17] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5109586715698242
+[2019-08-01 17:51:19] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7606968879699707 seconds 
+[2019-08-01 17:51:19] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:19] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.342776298522949 seconds
+[2019-08-01 17:51:19] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:19] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:19] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007976055145263672 seconds
+[2019-08-01 17:51:21] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5468649864196777
+[2019-08-01 17:51:23] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7613928318023682 seconds 
+[2019-08-01 17:51:23] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:23] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2271668910980225 seconds
+[2019-08-01 17:51:23] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:23] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:23] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005985260009765625 seconds
+[2019-08-01 17:51:25] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.541874885559082
+[2019-08-01 17:51:27] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7363190650939941 seconds 
+[2019-08-01 17:51:27] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:27] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2061357498168945 seconds
+[2019-08-01 17:51:27] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:27] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:27] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005986213684082031 seconds
+[2019-08-01 17:51:29] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.544870138168335
+[2019-08-01 17:51:31] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8011837005615234 seconds 
+[2019-08-01 17:51:31] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:31] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2360470294952393 seconds
+[2019-08-01 17:51:31] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:31] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:31] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005929708480834961 seconds
+[2019-08-01 17:51:32] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.542875051498413
+[2019-08-01 17:51:34] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7317500114440918 seconds 
+[2019-08-01 17:51:35] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:35] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.161595582962036 seconds
+[2019-08-01 17:51:35] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:35] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:35] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0069828033447265625 seconds
+[2019-08-01 17:51:36] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.559831142425537
+[2019-08-01 17:51:38] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.839080572128296 seconds 
+[2019-08-01 17:51:39] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0009937286376953125                 seconds
+[2019-08-01 17:51:39] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.3297677040100098 seconds
+[2019-08-01 17:51:39] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:39] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:39] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984783172607422 seconds
+[2019-08-01 17:51:40] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5698018074035645
+[2019-08-01 17:51:42] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8660178184509277 seconds 
+[2019-08-01 17:51:43] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:43] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.3826355934143066 seconds
+[2019-08-01 17:51:43] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:43] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:43] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007979869842529297 seconds
+[2019-08-01 17:51:44] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5399038791656494
+[2019-08-01 17:51:46] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.740893840789795 seconds 
+[2019-08-01 17:51:46] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:46] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.213608741760254 seconds
+[2019-08-01 17:51:46] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:46] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:46] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006980180740356445 seconds
+[2019-08-01 17:51:48] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.554821252822876
+[2019-08-01 17:51:50] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.791766881942749 seconds 
+[2019-08-01 17:51:50] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0009860992431640625                 seconds
+[2019-08-01 17:51:50] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.2734551429748535 seconds
+[2019-08-01 17:51:50] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:50] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:50] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0069828033447265625 seconds
+[2019-08-01 17:51:52] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5358917713165283
+[2019-08-01 17:51:54] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7892119884490967 seconds 
+[2019-08-01 17:51:54] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:54] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.230034351348877 seconds
+[2019-08-01 17:51:54] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:54] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:54] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006981611251831055 seconds
+[2019-08-01 17:51:56] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5767836570739746
+[2019-08-01 17:51:58] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.8018226623535156 seconds 
+[2019-08-01 17:51:58] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:51:58] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.3461530208587646 seconds
+[2019-08-01 17:51:58] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:51:58] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:51:58] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006970882415771484 seconds
+[2019-08-01 17:52:00] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5671696662902832
+[2019-08-01 17:52:02] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.849069595336914 seconds 
+[2019-08-01 17:52:02] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:52:02] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 2.305823802947998 seconds
+[2019-08-01 17:52:02] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:02] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:52:02] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006977558135986328 seconds
+[2019-08-01 17:52:02] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 4 count, Spend 0.11967921257019043
+[2019-08-01 17:52:02] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:02] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission
+
+[2019-08-01 17:52:02] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.008974790573120117 seconds
+[2019-08-01 17:52:02] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 4 count, Spend 0.04288339614868164
+[2019-08-01 17:52:02] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:02] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: The swipe did not complete successfully
+
+[2019-08-01 17:52:02] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00598454475402832 seconds
+[2019-08-01 17:52:03] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 2 count, Spend 0.9364650249481201
+[2019-08-01 17:52:03] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:03] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission
+
+[2019-08-01 17:52:03] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.004991292953491211 seconds
+[2019-08-01 17:52:03] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 4 count, Spend 0.04886937141418457
+[2019-08-01 17:52:03] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:03] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: The swipe did not complete successfully
+
+[2019-08-01 17:52:03] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0049974918365478516 seconds
+[2019-08-01 17:52:04] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 3 count, Spend 0.46875572204589844
+[2019-08-01 17:52:04] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:04] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission
+
+[2019-08-01 17:52:04] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984306335449219 seconds
+[2019-08-01 17:52:04] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 4 count, Spend 0.0668191909790039
+[2019-08-01 17:52:04] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:04] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: The swipe did not complete successfully
+
+[2019-08-01 17:52:04] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005985736846923828 seconds
+[2019-08-01 17:52:05] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 3 count, Spend 0.45677852630615234
+[2019-08-01 17:52:05] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:05] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission
+
+[2019-08-01 17:52:05] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006980180740356445 seconds
+[2019-08-01 17:52:05] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 4 count, Spend 0.05983853340148926
+[2019-08-01 17:52:05] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:05] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: The swipe did not complete successfully
+
+[2019-08-01 17:52:05] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005985736846923828 seconds
+[2019-08-01 17:52:05] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 4 count, Spend 0.03989291191101074
+[2019-08-01 17:52:05] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:52:05] [WARNING] [MainThread] [run.py:28] Message: An unknown server-side error occurred while processing the command. Original error: Injecting to another application requires INJECT_EVENTS permission
+
+[2019-08-01 17:52:05] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007985591888427734 seconds
+[2019-08-01 17:52:07] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.6565678119659424
+[2019-08-01 17:52:39] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.5698015689849854 seconds 
+[2019-08-01 17:53:39] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.001003265380859375                 seconds
+[2019-08-01 17:53:39] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 92.3728392124176 seconds
+[2019-08-01 17:53:39] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:53:39] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:53:39] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005991935729980469 seconds
+[2019-08-01 17:53:41] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5598289966583252
+[2019-08-01 17:54:13] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.7074439525604248 seconds 
+[2019-08-01 17:55:13] [INFO] [MainThread] [keywords.py:137] Get the latest screenshot is ---[@resource-id='com.Autoyol.auto-id-viewpager'], spend 0.0                 seconds
+[2019-08-01 17:55:13] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 92.40588402748108 seconds
+[2019-08-01 17:55:13] [WARNING] [MainThread] [run.py:27] //*[@resource-id='com.Autoyol.auto:id/viewpager']
+[2019-08-01 17:55:13] [WARNING] [MainThread] [run.py:28] unknown file extension: .auto-id-viewpager']
+[2019-08-01 17:55:13] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007979154586791992 seconds
+[2019-08-01 17:55:15] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 1.5578322410583496
+[2019-08-01 17:55:47] [INFO] [MainThread] [keywords.py:118] The screenshot is successful, the name of the picture is ---[@resource-id='com.Autoyol.auto-id-viewpager'],              Spend 1.6725263595581055 seconds 

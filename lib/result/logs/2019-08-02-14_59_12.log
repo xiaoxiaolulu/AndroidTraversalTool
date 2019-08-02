@@ -1,0 +1,5 @@
+[2019-08-02 14:59:12] [DEBUG] [MainThread] [server.py:35] start appium :p 4704 bp 4801 device:baec20fa
+[2019-08-02 15:00:19] [INFO] [MainThread] [keywords.py:353] Mandatory waiting 30
+[2019-08-02 15:00:24] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.83854341506958
+[2019-08-02 15:00:32] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-02 15:00:32] [WARNING] [MainThread] [keywords.py:282] Element click failure, Spend 7.946608781814575 seconds

@@ -1,0 +1,104 @@
+[2019-08-01 17:18:24] [DEBUG] [MainThread] [server.py:35] start appium :p 4790 bp 4757 device:baec20fa
+[2019-08-01 17:18:51] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.06783318519592285 seconds
+[2019-08-01 17:18:54] [WARNING] [MainThread] [keywords.py:466] The phone screen slides left 3 count, Spend 2.725001573562622
+[2019-08-01 17:18:54] [WARNING] [MainThread] [run.py:30] {'android.widget.LinearLayout': "//*[@resource-id='com.Autoyol.auto:id/left_button']"}
+[2019-08-01 17:18:54] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Swipe did not complete successfully
+
+[2019-08-01 17:18:54] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.0059659481048583984 seconds
+[2019-08-01 17:18:59] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.75700569152832
+[2019-08-01 17:19:10] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:19:10] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:10] [WARNING] [MainThread] [run.py:31] Message: 
+
+[2019-08-01 17:19:10] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00598454475402832 seconds
+[2019-08-01 17:19:15] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.93886137008667
+[2019-08-01 17:19:25] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:19:25] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:25] [WARNING] [MainThread] [run.py:31] Message: 
+
+[2019-08-01 17:19:25] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005985736846923828 seconds
+[2019-08-01 17:19:30] [INFO] [MainThread] [keywords.py:464] The phone screen slides left 0 count, Spend 4.843146085739136
+[2019-08-01 17:19:40] [WARNING] [MainThread] [keywords.py:101] Please enter the correct targeting elements!
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006980419158935547 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005983591079711914 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.012964487075805664 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.012965202331542969 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006966590881347656 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.011969327926635742 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.014966249465942383 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.005984067916870117 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00997614860534668 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.010975837707519531 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006981849670410156 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007979154586791992 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.012966156005859375 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.011967182159423828 seconds
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:40] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:40] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006983041763305664 seconds
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:41] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.006982326507568359 seconds
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:41] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.007966756820678711 seconds
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:41] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.00795745849609375 seconds
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:41] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.01395869255065918 seconds
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
+[2019-08-01 17:19:41] [INFO] [MainThread] [keywords.py:44] Recessive waiting 25 seconds, Spend 0.004986763000488281 seconds
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:30] {'android.support.v4.view.ViewPager': "//*[@resource-id='com.Autoyol.auto:id/viewpager']"}
+[2019-08-01 17:19:41] [WARNING] [MainThread] [run.py:31] Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: read ECONNRESET
+
